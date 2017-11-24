@@ -37,7 +37,6 @@ public class TestVariabel {
         boolean b1 = false;
         System.out.println(b);
         System.out.println(b1);
-        System.out.println(b1);
 
     }//main
 }//class

@@ -18,8 +18,8 @@ public class InputDataToArray {
         System.out.println("Data in Array: ");
         for (int val:number)
             System.out.println(val+" ");
-
     }
+
     private static int[] showData(int[] number){
         System.out.println("Data in Array: ");
         for (int i=0; i<number.length; i++)

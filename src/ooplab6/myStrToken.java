@@ -15,7 +15,6 @@ public class myStrToken {
             System.out.print(buffer.reverse()+" ");
 
 
-
         }
     }//main
 }//class

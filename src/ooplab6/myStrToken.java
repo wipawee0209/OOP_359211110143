@@ -13,7 +13,7 @@ public class myStrToken {
         while (myToken.hasMoreTokens()){
             StringBuffer buffer = new StringBuffer(myToken.nextToken());
             System.out.print(buffer.reverse()+" ");
-
+            System.out.print(buffer.reverse()+" ");
 
         }
     }//main

@@ -1,6 +1,6 @@
 package ooplab6;
 
-import java.util.StringTokenizer;
+        import java.util.StringTokenizer;
 
 public class myStrToken {
     public static void main(String[] args) {

@@ -25,7 +25,6 @@ public class mySuperCar {
             a.setCountryoforigin(scanner.nextLine());
 
             return a;
-
         }
 
     }

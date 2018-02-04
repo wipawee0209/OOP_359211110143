@@ -1,5 +1,4 @@
 package ooplab8;
-
 public abstract class Pet {
     private String name;
     private int age;
